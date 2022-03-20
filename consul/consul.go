@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	qgoutils "github.com/chennqqi/goutils/utils"
+	qgoutils "github.com/hktalent/goutils/utils"
 	consulapi "github.com/hashicorp/consul/api"
 	"github.com/pkg/errors"
 )

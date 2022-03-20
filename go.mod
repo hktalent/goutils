@@ -1,3 +1,3 @@
-module github.com/chennqqi/goutils
+module github.com/hktalent/goutils
 
-go 1.13
+go 1.17

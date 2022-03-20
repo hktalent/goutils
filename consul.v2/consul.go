@@ -9,8 +9,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/chennqqi/goutils/utils"
-	qgoutils "github.com/chennqqi/goutils/utils"
+	"github.com/hktalent/goutils/utils"
+	qgoutils "github.com/hktalent/goutils/utils"
 	consulapi "github.com/hashicorp/consul/api"
 )
 

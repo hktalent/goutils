@@ -6,7 +6,7 @@ import (
 
 	"net/http"
 
-	"github.com/chennqqi/goutils/consul.v2"
+	"github.com/hktalent/goutils/consul.v2"
 )
 
 func consulApp() {

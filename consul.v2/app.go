@@ -12,9 +12,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/chennqqi/goutils/closeevent"
-	"github.com/chennqqi/goutils/utils"
-	"github.com/chennqqi/goutils/yamlconfig"
+	"github.com/hktalent/goutils/closeevent"
+	"github.com/hktalent/goutils/utils"
+	"github.com/hktalent/goutils/yamlconfig"
 	"gopkg.in/yaml.v2"
 )
 

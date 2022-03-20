@@ -4,7 +4,7 @@ package yamlconfig
 import (
 	"io/ioutil"
 
-	"github.com/chennqqi/goutils/utils"
+	"github.com/hktalent/goutils/utils"
 	"gopkg.in/yaml.v2"
 )
 
